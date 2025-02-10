@@ -3,7 +3,7 @@
 ## O Bahia Gatrobar Links
 
 
-![Prévia do Site](../assets/img/redmi.png)
+![Prévia do Site](../assets/img/logo.png)
 
 
 Recentemente, vendi um cardápio digital para um estabelecimento e, como um bônus especial, desenvolvi uma página personalizada de links para a bio do Instagram.
