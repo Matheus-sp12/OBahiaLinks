@@ -5,7 +5,7 @@ let config = {
   "links": [
     {
       "Title": "Cardápio",
-      "URL": "https://o-bahia-gastrobar.vercel.app/",
+      "URL": "https://o-bahia-gastrobar-6kt4.vercel.app/",
       "icon_classes": "fas fa-link",
     },
     {
